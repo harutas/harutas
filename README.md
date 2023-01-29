@@ -1,4 +1,4 @@
-### Hi there, I'm harutas (Yusuke Yanagi) 👋
+### Hi there, I'm Yusuke Yanagi 👋
 
 <a href="https://github.com/harutas">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=harutas&show_icons=true&theme=algolia" />
